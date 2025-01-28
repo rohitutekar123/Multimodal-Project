@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymongo
+moviepy
+transformers
+gtts
+pydub
+scenedetect
+openai-whisper @ git+https://github.com/openai/whisper.git
+torch
+numpy
+ffmpeg-python
+opencv-python
+python-multipart
